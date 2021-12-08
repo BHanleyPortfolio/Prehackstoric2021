@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="dinodb@free-tier4.aws-us-west-2.cockroachlabs.cloud" uuid="a0da0ae3-91c1-427a-9ceb-01ed15cdc53d">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>fluffs</user-name>
+      <schema-mapping />
+      <legacy-introspector>true</legacy-introspector>
+    </data-source>
+  </component>
+</project>

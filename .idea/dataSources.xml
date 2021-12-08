@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="dinodb@free-tier4.aws-us-west-2.cockroachlabs.cloud" uuid="a0da0ae3-91c1-427a-9ceb-01ed15cdc53d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://free-tier4.aws-us-west-2.cockroachlabs.cloud:26257/dinodb</jdbc-url>
+    </data-source>
+  </component>
+</project>

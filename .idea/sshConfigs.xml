@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="45.79.106.160" id="14758801-33a0-43c4-a8e8-dd2d3f4fbf71" port="22" customName="Prehackstoric" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="Prehackstoric" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

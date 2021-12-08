@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1f5ac97-94f4-4ac1-93eb-bdf7a0581665" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e6ff0903-bf4c-4c56-aab9-61748919dc37" />
+  </component>
+  <component name="ProjectId" id="1xxBBuiFINNFNWrab5u9TjCpqWm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\PhpstormProjects\Prehackstoric\images" />
+      <recent name="H:\PhpstormProjects\Prehackstoric\test-cert" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1f5ac97-94f4-4ac1-93eb-bdf7a0581665" name="Default Changelist" comment="" />
+      <created>1631286726774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631286726774</updated>
+      <workItem from="1631286728058" duration="1147000" />
+      <workItem from="1631373466424" duration="17423000" />
+      <workItem from="1638921887611" duration="785000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="856" y="349" key="#SSH_Configurations" timestamp="1631286887729">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="856" y="349" key="#SSH_Configurations/-601.-1080.1920.1050/1319.-1080.1920.1050/0.0.2560.1410@0.0.2560.1410" timestamp="1631286887729" />
+    <state x="655" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638922437170">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="655" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1050/0.0.1920.1050/-898.1080.2560.1410@0.0.1920.1050" timestamp="1638922437170" />
+    <state x="54" y="-807" key="#com.intellij.execution.impl.EditConfigurationsDialog/-601.-1080.1920.1050/1319.-1080.1920.1050/0.0.2560.1410@-601.-1080.1920.1050" timestamp="1631386594976" />
+    <state x="795" y="343" key="FileChooserDialogImpl" timestamp="1638922566910">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="795" y="343" key="FileChooserDialogImpl/-1920.0.1920.1050/0.0.1920.1050/-898.1080.2560.1410@0.0.1920.1050" timestamp="1638922566910" />
+    <state x="1060" y="460" key="FileChooserDialogImpl/-601.-1080.1920.1050/1319.-1080.1920.1050/0.0.2560.1410@0.0.2560.1410" timestamp="1631382346992" />
+    <state x="784" y="427" key="Github.CreateGistDialog" timestamp="1638922182125">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="784" y="427" key="Github.CreateGistDialog/-1920.0.1920.1050/0.0.1920.1050/-898.1080.2560.1410@0.0.1920.1050" timestamp="1638922182125" />
+    <state x="460" y="0" key="NewPhpFileDialog" timestamp="1631391408079">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="460" y="0" key="NewPhpFileDialog/-601.-1080.1920.1050/1319.-1080.1920.1050/0.0.2560.1410@0.0.2560.1410" timestamp="1631391408079" />
+    <state x="-256" y="-1080" key="NewPhpFileDialog/0.0.2560.1410/-601.-1080.1920.1050/1319.-1080.1920.1050@-601.-1080.1920.1050" timestamp="1631373626995" />
+    <state x="586" y="260" key="SettingsEditor" timestamp="1638922673615">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="586" y="260" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050/-898.1080.2560.1410@0.0.1920.1050" timestamp="1638922673615" />
+    <state x="781" y="349" key="SettingsEditor/-601.-1080.1920.1050/1319.-1080.1920.1050/0.0.2560.1410@0.0.2560.1410" timestamp="1631286940070" />
+    <state x="1165" y="434" key="ftp.server.browser" timestamp="1631286929049">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1165" y="434" key="ftp.server.browser/-601.-1080.1920.1050/1319.-1080.1920.1050/0.0.2560.1410@0.0.2560.1410" timestamp="1631286929049" />
+    <state x="496" y="-631" key="publish.login" timestamp="1631373711939">
+      <screen x="-601" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="496" y="-631" key="publish.login/0.0.2560.1410/-601.-1080.1920.1050/1319.-1080.1920.1050@-601.-1080.1920.1050" timestamp="1631373711939" />
+  </component>
+</project>

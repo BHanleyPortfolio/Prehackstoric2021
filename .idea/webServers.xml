@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b1ac6b3c-14d1-43e9-8e92-2387f1122e62" name="Prehackstoric" url="http://prehackstoric.brianhanley.co">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="45.79.106.160" port="22" sshConfigId="14758801-33a0-43c4-a8e8-dd2d3f4fbf71" sshConfig="Prehackstoric">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
